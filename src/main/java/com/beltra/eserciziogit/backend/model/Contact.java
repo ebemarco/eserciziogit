@@ -1,4 +1,4 @@
-package com.beltra.eserciziogit.eserciziogit.backend.model;
+package com.beltra.eserciziogit.backend.model;
 
 /* import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

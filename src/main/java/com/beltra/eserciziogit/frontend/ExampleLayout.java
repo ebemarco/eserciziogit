@@ -1,8 +1,8 @@
-package com.beltra.eserciziogit.eserciziogit.frontend;
+package com.beltra.eserciziogit.frontend;
 
 import java.util.List;
 
-import com.beltra.eserciziogit.eserciziogit.backend.model.Contact;
+import com.beltra.eserciziogit.backend.model.Contact;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
