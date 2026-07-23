@@ -5,10 +5,10 @@
     - `marcoBelt99` è il mio personale
 
 Progetto:
-    - *Frontend*: Vaadin &rarr; `ebemarco`
-    - *Backend*: Java + Vaadin 24 + Spring Boot + PostgreSQL &rarr; `marcoBelt99`
+- *Frontend*: Vaadin &rarr; `ebemarco`
+- *Backend*: Java + Vaadin 24 + Spring Boot + PostgreSQL &rarr; `marcoBelt99`
 
-Manager Progetto: `ebemarco`
+*Manager Progetto*: `ebemarco`
 
 
 LOGICA APPLICATIVO / ESERCIZIO:  ... 
@@ -35,7 +35,8 @@ LOGICA APPLICATIVO / ESERCIZIO:  ...
 8. marcoBelt99 può ora clonarsi il repo con `git clone  https://github.com/ebemarco/eserciziogit.git` 
 ebemarco ora aggiunge ai collaboratori marcoBelt99
 9.  marcoBelt99 va in https://github.com/notifications e accetta la collaborazione
-10.  ora marcoBelt99 può fare dei push
+10. ora marcoBelt99 può fare dei push
+11. entrambi i colleghi possono fare anche dei pull
 
 
 
