@@ -32,9 +32,9 @@ LOGICA APPLICATIVO / ESERCIZIO:  ...
     - Per vedere tutti i branch attivi, fare: `git brach` (a questo punto dovrei avere solo quello master)
     - quindi, fare: `git push -u origin master` (con questo comando ho mandato i file del mio repository locale a quello remoto)
 
-8. marcoBelt99 può ora clonarsi il repo con `git clone  https://github.com/ebemarco/eserciziogit.git` 
-ebemarco ora aggiunge ai collaboratori marcoBelt99
-9.  marcoBelt99 va in https://github.com/notifications e accetta la collaborazione
+7. marcoBelt99 può ora clonarsi il repo con `git clone  https://github.com/ebemarco/eserciziogit.git` 
+8. ebemarco ora aggiunge ai collaboratori marcoBelt99
+9. marcoBelt99 va in https://github.com/notifications e accetta la collaborazione
 10. ora marcoBelt99 può fare dei push
 11. entrambi i colleghi possono fare anche dei pull
 
